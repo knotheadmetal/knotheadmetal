@@ -9,9 +9,9 @@ Com formação em Redes de Computadores e três pós-graduações em andamento p
 Minha trajetória é guiada pela paixão por tecnologia e matemática, com foco em inovação e excelência. Estou preparado para contribuir com decisões baseadas em dados e criar soluções que impulsionem resultados.
 
 <div>
-  <a href = "mailto:stellahcsposito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/stellasposito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://medium.com/@stellahcsposito"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href = "mailto:rafael.knothead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafaelsantosti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://medium.com/@rafael.knothead"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 
 ---
