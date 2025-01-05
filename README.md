@@ -1,13 +1,12 @@
-<div>
-  <a href = "mailto:stellahcsposito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/stellasposito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://medium.com/@stellahcsposito"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+# 👩🏻‍💻 Rafael Santos
 
-# 👩🏻‍💻 Larissa Kich
+**`Analista de Dados`**
 
-**`Desenvolvedora FullStack`**
+Sou profissional de tecnologia com mais de 8 anos de experiência, atualmente em transição de carreira para a área de Engenharia de Dados. Tenho expertise em Python, SQL e Linux, além de habilidades avançadas em ferramentas analíticas como Power BI e Tableau, que utilizo para transformar dados em insights estratégicos.
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Com formação em Redes de Computadores e três pós-graduações em andamento pela Faculminas (Big Data, Banco de Dados e Business Intelligence), aprofundei conhecimentos em manipulação de dados, automação de processos e geração de relatórios precisos.
+
+Minha trajetória é guiada pela paixão por tecnologia e matemática, com foco em inovação e excelência. Estou preparado para contribuir com decisões baseadas em dados e criar soluções que impulsionem resultados.
 
 <div>
   <a href = "mailto:stellahcsposito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
