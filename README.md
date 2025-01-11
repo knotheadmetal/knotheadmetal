@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Santos
+# 👨‍💻 Rafael Santos
 
 **`Analista de Dados`**
 
