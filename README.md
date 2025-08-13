@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Sou um profissional com mais de 8 anos de experiência em tecnologia e análise de dados, transformando informações complexas em insights valiosos. Minha carreira começou na infraestrutura e suporte de TI, onde desenvolvi habilidades sólidas em sistemas, bancos de dados e processos operacionais. Ao longo do tempo, expandi meu conhecimento para áreas como Business Intelligence e análise de dados, utilizando ferramentas como SQL, Power BI, Excel e Python.
+Sou um profissional com mais de 10 anos de experiência em tecnologia e análise de dados, transformando informações complexas em insights valiosos. Minha carreira começou na infraestrutura e suporte de TI, onde desenvolvi habilidades sólidas em sistemas, bancos de dados e processos operacionais. Ao longo do tempo, expandi meu conhecimento para áreas como Business Intelligence e análise de dados, utilizando ferramentas como SQL, Power BI, Excel e Python.
 
 Atualmente, atuo como Analista de Dados, focado na coleta, modelagem e análise de dados para apoiar decisões estratégicas. Tenho expertise em consultas SQL avançadas, criação de dashboards no Power BI e uso de DAX para apresentar dados de forma clara e acionável. Estou cursando três pós-graduações — em Big Data, Banco de Dados e BI — para me manter atualizado com as melhores práticas do mercado.
 
