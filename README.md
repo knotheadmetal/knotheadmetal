@@ -13,18 +13,12 @@ Experiência Comprovada:
 - Arquiteturas Escaláveis: Criei arquiteturas de dados distribuídas em Microsoft Azure e AWS, utilizando Databricks para processamento massivo, que suportaram crescimento exponencial de volume sem comprometer desempenho.
 
 Stack Tecnológico:
-Linguagens: SQL, Python, R, DAX
-
+Linguagens: SQL, Python, R, DAX                                                        
 Bancos: SQL Server, MongoDB, PostgreSQL
-
 BI/Visualização: Power BI, Tableau, Excel 
-
 Cloud: Microsoft Azure, AWS, Google Cloud, Databricks
-
 ETL/Big Data: Apache Airflow, Hadoop, Spark
-
 Versionamento: Git, GitHub
-
 Metodologias: Agile, SCRUM, DevOps
 
 <div>
