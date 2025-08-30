@@ -12,14 +12,14 @@ Experiência Comprovada:
 - Automação e Otimização: Implementei soluções de automação com Python, R e DAX que reduziram custos operacionais em 25% e tempo de processamento em 45%, liberando recursos para atividades estratégicas.
 - Arquiteturas Escaláveis: Criei arquiteturas de dados distribuídas em Microsoft Azure e AWS, utilizando Databricks para processamento massivo, que suportaram crescimento exponencial de volume sem comprometer desempenho.
 
-Stack Tecnológico:
+Stack Tecnológico:                                  
 Linguagens: SQL, Python, R, DAX                                                        
-Bancos: SQL Server, MongoDB, PostgreSQL
-BI/Visualização: Power BI, Tableau, Excel 
-Cloud: Microsoft Azure, AWS, Google Cloud, Databricks
-ETL/Big Data: Apache Airflow, Hadoop, Spark
-Versionamento: Git, GitHub
-Metodologias: Agile, SCRUM, DevOps
+Bancos: SQL Server, MongoDB, PostgreSQL                                      
+BI/Visualização: Power BI, Tableau, Excel                                 
+Cloud: Microsoft Azure, AWS, Google Cloud, Databricks                                                     
+ETL/Big Data: Apache Airflow, Hadoop, Spark                                             
+Versionamento: Git, GitHub                                                              
+Metodologias: Agile, SCRUM, DevOps                                          
 
 <div>
   <a href = "mailto:rafael.knothead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
