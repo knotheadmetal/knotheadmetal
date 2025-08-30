@@ -14,12 +14,19 @@ Experiência Comprovada:
 
 Stack Tecnológico:
 Linguagens: SQL, Python, R, DAX
+
 Bancos: SQL Server, MongoDB, PostgreSQL
+
 BI/Visualização: Power BI, Tableau, Excel 
+
 Cloud: Microsoft Azure, AWS, Google Cloud, Databricks
+
 ETL/Big Data: Apache Airflow, Hadoop, Spark
+
 Versionamento: Git, GitHub
+
 Metodologias: Agile, SCRUM, DevOps
+
 <div>
   <a href = "mailto:rafael.knothead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rafaelsantosti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
