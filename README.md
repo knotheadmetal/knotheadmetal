@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Santos
 
-**`Analista de Dados`**
+**`Engenheiro de Dados`**
 
 Engenheiro de dados com 6 anos de experiência em transformar dados em valor estratégico, unindo visão analítica e foco em resultados para resolver problemas complexos. Tenho expertise em SQL, Python, R e DAX, além de vivência com bancos de dados como SQL Server, SAP HANA, MongoDB e PostgreSQL, construção de dashboards e análises em Power BI, Tableau e Excel, e desenvolvimento de pipelines de dados e arquiteturas escaláveis em ambientes de cloud (Microsoft Azure, AWS, Google Cloud, Databricks) e Big Data (Apache Airflow, Hadoop, Spark). Minha atuação combina habilidades técnicas e de negócio, garantindo eficiência operacional e vantagem competitiva por meio de soluções analíticas robustas. Atualmente, estou expandindo minha trajetória para Engenharia de Dados, com foco em arquiteturas distribuídas, governança e pipelines de alta performance.
 
