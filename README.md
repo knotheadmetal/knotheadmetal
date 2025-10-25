@@ -6,7 +6,7 @@ Engenheiro de dados com 6 anos de experiência em transformar dados em valor est
 
 Cursando três pós-graduações (Big Data, Banco de Dados e Business Intelligence) para me manter na vanguarda das tecnologias emergentes, incluindo IA e Machine Learning em pipelines de dados.
 
-Experiência Comprovada:
+Experiência Comprovada: 
 - Pipelines de Alta Performance: Desenvolvi pipelines de dados utilizando Apache Airflow e Spark que processam milhões de registros diariamente com 99.9% de confiabilidade, garantindo disponibilidade contínua para tomada de decisões críticas.
 - Integração de Dados Complexa: Integrei múltiplas fontes de dados (APIs REST, bancos relacionais como SQL Server, SAP HANA, MongoDB e PostgreSQL, arquivos estruturados e não estruturados) utilizando Python e ferramentas ETL, aumentando a eficiência operacional em 40%.
 - Automação e Otimização: Implementei soluções de automação com Python, R e DAX que reduziram custos operacionais em 25% e tempo de processamento em 45%, liberando recursos para atividades estratégicas.
